@@ -1,4 +1,4 @@
-# 📊 StoreMetrics — E-Commerce Analytics Dashboard
+# 📊 Ecom Dashboard — Claude Design
 
 **Live site:** https://mayanksewatkar.github.io/ecom-dashboard/
 
